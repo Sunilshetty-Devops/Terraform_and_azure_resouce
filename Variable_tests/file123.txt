@@ -1,0 +1,1 @@
+reated terraform file inside terraform resource file and inside that file created txt file7
